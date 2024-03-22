@@ -55,4 +55,3 @@ while true:
             
         else: 
             print("Please type 'yes' or 'no'")
-            
